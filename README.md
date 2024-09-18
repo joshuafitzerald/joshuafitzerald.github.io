@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -18,7 +17,7 @@
               <a href="#about">About</a>
             </li>
             <li>
-              <a href="#skills">Resume</a>
+              <a href="#skills">Skills</a>
             </li>
             <li>
               <a href="#projects">Projects</a>
@@ -72,11 +71,11 @@
 
   <section id="contact">
       <h2>Contact</h2>
-      <p>Email: <a href="mailto:fitzeraldjoshuaanak@gmail.com">your-email@example.com</a></p>
+      <p>Email: <a href="mailto:fitzeraldjoshuaanak@gmail.com">fitzeraldjoshuaanak@gmail.com</a></p>
   </section>
 
   <footer>
-      <p>&copy; 2024 Your Name. All rights reserved.</p>
+      <p>&copy; 2024 Joshua Anak Fitzerald. All rights reserved.</p>
   </footer>
 </body>
 </html>
