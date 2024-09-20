@@ -11,6 +11,8 @@
         <p>Programmer | Software Engineer | Web Developer | Powerlifter | Bodybuilder | Songwriter and Producer</p>
     </header>
 
+<img src="IMG_1714.png" alt="Joshua Anak Fitzerald" width="600" height="300">
+
   <nav>
         <ul>
             <li>
@@ -73,6 +75,8 @@
       <h2>Contact</h2>
       <p>Email: <a href="mailto:fitzeraldjoshuaanak@gmail.com">fitzeraldjoshuaanak@gmail.com</a></p>
   </section>
+
+<img src="IMG_1849.jpeg" alt="Anime" width="1000" height="500">
 
   <footer>
       <p>&copy; 2024 Joshua Anak Fitzerald. All rights reserved.</p>
