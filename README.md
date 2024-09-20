@@ -27,6 +27,9 @@
             <li>
               <a href="#contact">Contact</a>
             </li>
+            <li>
+                <a href="#organizations">Organizations</a>
+            </li>
         </ul>
     </nav>
 
@@ -70,6 +73,35 @@
             <!-- Add more projects as needed -->
       </ul>
   </section>
+
+<section id="organizations">
+    <h2>Organizations</h2>
+    <ul>
+         <li>
+            <h3>Computer Security Group (UTD CSG)</h3>
+            <p>Engaged in hands-on workshops that developed practical skills in the offensive side of cybersecurity, such as hacking into systems.
+               Competed in CTF (Capture The Flag) events which consisted of hacking competitions among teams.
+            </p>
+        </li>
+        <li>
+            <h3>Cybersecurity Club (UTD CYC)</h3>
+            <p>Engaged in hands-on workshops to develop practical cybersecurity skills.
+               Attended guest lectures by industry professionals to gain insights into cybersecurity careers.
+            </p>
+        </li>
+        <li>
+            <h3>UTD Powerlifting Club</h3>
+        </li>
+        <li>
+            <h3>Varsity Wrestling (Jordan High School)</h3>
+            <p>Wrestled in the 145, 152, 160 and 170 lb weight class divisions.
+               Competed in tournaments against other schools and districts.
+               Demonstrated hard work and discipline. For example, one rep max for barbell bench press went from 185 lbs during Sophomore Year to 245 lbs in Junior Year. 
+             Held the record for the fastest pin (Match win) of the 2022-2023 Wrestling Season of 14 seconds.
+            </p>
+        </li>
+    </ul>
+</section>
 
   <section id="contact">
       <h2>Contact</h2>
