@@ -57,6 +57,16 @@
       <h2>Projects</h2>
       <ul>
           <li>
+                <h3>Job Hunt Web Scraper</h3>
+                <p>Developed a Python-based web scraper using BeautifulSoup and Requests to extract job listings from TimesJobs.
+                Implemented a search functionality allowing users to filter job postings by inputing their skills and the number of days since the job was posted,
+                in which the program then displayed relevant job details, including company name, required skills, and links for more information.
+                Enhanced user experience with dynamic input for customized job search criteria.
+                Improved Python proficiency and web scraping skills by automating data retrieval and parsing HTML content.
+                </p>
+                <a href="https://github.com/joshuafitzerald/jobwebscraper" target="_blank">View it here on GitHub</a>
+          </li>
+          <li>
                 <h3>Discord Moderation Bot</h3>
                 <p>Used python to program a Discord bot that enabled server administrators to define and enforce banned words in the chat.
                    Automated the detection and removal of flagged messages and built custom commands for adding, removing and viewing banned words, and for banning and unbanning users.
