@@ -120,7 +120,7 @@
 
 <img src="IMG_1849.jpeg" alt="Anime">
 
-<iframe width="560" height="202" src="https://www.bandlab.com/embed/?id=bc2241ea-2d40-ef11-86c3-000d3a42581b" allowfullscreen></iframe>
+<iframe src="https://www.bandlab.com/embed/?id=bc2241ea-2d40-ef11-86c3-000d3a42581b" allowfullscreen></iframe>
 
   <footer>
       <p>&copy; 2024 Joshua Anak Fitzerald. All rights reserved.</p>
