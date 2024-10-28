@@ -56,6 +56,12 @@
   <section id="projects">
       <h2>Projects</h2>
       <ul>
+           <li>
+                <h3>iOS Expense Tracker App</h3>
+                <p>Developed an iOS app for tracking personal expenses, built with Swift and Core Data. This app allows users to easily add, delete, and categorize expenses, with monthly and weekly                                            breakdowns for comprehensive budgeting insights.
+                </p>
+                <a href="https://github.com/joshuafitzerald/ExpenseTrackerApp" target="_blank">View it here on GitHub</a>
+          </li>
           <li>
                 <h3>Job Hunt Web Scraper</h3>
                 <p>Developed a Python-based web scraper using BeautifulSoup and Requests to extract job listings from TimesJobs.
@@ -74,7 +80,7 @@
                 <a href="link-to-repo" target="_blank">View on GitHub</a>
           </li>
           <li>
-              <h3>Discord Reddit Alert Bot</h3>
+              <h3>Reddit Notification Alert Bot</h3>
               <p>Built a python script that monitors a forum on Reddit for recent posts with over 100 upvotes.
                  Implemented the Discord.py library into the script to create a Discord bot that sends direct messages to the user if there is a recent 100+ upvoted post on the Reddit forum.
                  Used asynchronous programming to handle periodic checks and notifications.</p>
