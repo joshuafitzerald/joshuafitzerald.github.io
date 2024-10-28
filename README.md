@@ -77,7 +77,7 @@
                 <p>Used python to program a Discord bot that enabled server administrators to define and enforce banned words in the chat.
                    Automated the detection and removal of flagged messages and built custom commands for adding, removing and viewing banned words, and for banning and unbanning users.
                 </p>
-                <a href="link-to-repo" target="_blank">View on GitHub</a>
+                <a href="https://github.com/joshuafitzerald/DiscordModBot" target="_blank">View on GitHub</a>
           </li>
           <li>
               <h3>Reddit Notification Alert Bot</h3>
