@@ -1,10 +1,4 @@
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Joshua Fitzerald - Portfolio</title>
-    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
-</head>
 <body>
     <header>
         <h1>Joshua Fitzerald</h1>
@@ -25,10 +19,10 @@
               <a href="#projects">Projects</a>
             </li>
             <li>
-              <a href="#contact">Contact</a>
+                <a href="#organizations">Organizations</a>
             </li>
             <li>
-                <a href="#organizations">Organizations</a>
+              <a href="#contact">Contact and Socials</a>
             </li>
         </ul>
     </nav>
@@ -122,13 +116,12 @@
   <section id="contact">
       <h2>Contact</h2>
       <p>Email: <a href="mailto:fitzeraldjoshuaanak@gmail.com">fitzeraldjoshuaanak@gmail.com</a></p>
+      <p>LinkedIn: <a href="www.linkedin.com/in/joshua-anak-fitzerald-141160324">fitzeraldjoshuaanak@gmail.com</a></p>
   </section>
 
 <img src="IMG_1849.jpeg" alt="Anime">
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1875444033&color=%23988c82&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ricejosh-boi" title="JF Drago" target="_blank" style="color: #cccccc; text-decoration: none;">JF Drago</a> · <a href="https://soundcloud.com/ricejosh-boi/text-in-morning-feat-hadxw" title="TEXT IN MORNING (feat. $hadxw)" target="_blank" style="color: #cccccc; text-decoration: none;">TEXT IN MORNING (feat. $hadxw)</a></div>
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1646842606&color=%23544434&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ricejosh-boi" title="JF Drago" target="_blank" style="color: #cccccc; text-decoration: none;">JF Drago</a> · <a href="https://soundcloud.com/ricejosh-boi/sets/on-god" title="ON GOD" target="_blank" style="color: #cccccc; text-decoration: none;">ON GOD</a></div>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/6GimttnXHidjNu0ON27dc0?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
   <footer>
       <p>&copy; 2024 Joshua Anak Fitzerald. All rights reserved.</p>
