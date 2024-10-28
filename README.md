@@ -84,7 +84,7 @@
               <p>Built a python script that monitors a forum on Reddit for recent posts with over 100 upvotes.
                  Implemented the Discord.py library into the script to create a Discord bot that sends direct messages to the user if there is a recent 100+ upvoted post on the Reddit forum.
                  Used asynchronous programming to handle periodic checks and notifications.</p>
-              <a href="link-to-repo" target="_blank">View on GitHub</a>
+              <a href="https://github.com/joshuafitzerald/RedditAlertBot" target="_blank">View on GitHub</a>
           </li>
             <!-- Add more projects as needed -->
       </ul>
