@@ -22,6 +22,9 @@
                 <a href="#organizations">Organizations</a>
             </li>
             <li>
+              <a href="#resume">Resume</a>
+            </li>
+            <li>
               <a href="#contact">Contact and Socials</a>
             </li>
         </ul>
