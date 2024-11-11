@@ -116,6 +116,11 @@
     </ul>
 </section>
 
+<section id="resume">
+    <h2>Resume</h2>
+    <embed src="JoshuaAnakFitzeraldResume 3.pages">
+</section>
+
   <section id="contact">
       <h2>Contact</h2>
       <p>Email: <a href="mailto:fitzeraldjoshuaanak@gmail.com">fitzeraldjoshuaanak@gmail.com</a></p>
