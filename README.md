@@ -22,9 +22,6 @@
                 <a href="#organizations">Organizations</a>
             </li>
             <li>
-              <a href="#resume">Resume</a>
-            </li>
-            <li>
               <a href="#contact">Contact and Socials</a>
             </li>
         </ul>
@@ -39,13 +36,16 @@
       <h2>Skills</h2>
       <ul>
           <li>
-              Python, Javascript, R Programming, HTML, and Microsoft SQL
+              Programming Languages: Python, Javascript, Java, R Programming, C++, HTML, and CSS
           </li>
           <li>
-              Team leadership, cooperation, effective communication, commitment, writing, and public speaking
+              Cybersecurity: Basic Network Security, Web Scraping
           </li>
           <li>
-              Microsoft Suite, Microsoft Excel
+              API’s and Web Services: AWS, Discord API, Reddit API, Microsoft Suite, Microsoft Excel, Microsoft SQL
+          </li>
+          <li>
+              Other: Data analysis, Team leadership, cooperation, effective communication, teaching, commitment, writing, and public speaking.
           </li>
       </ul>
   </section>
@@ -104,6 +104,9 @@
         </li>
         <li>
             <h3>UTD Powerlifting Club</h3>
+            <h4>Secretary Officer</h4>
+            <p>Supported club events and activities, contributing to the club’s welcoming environment and encouraging new members. Managed member information, and kept all club documents up to date. In charge                             of communications, sending updates to members, coordinating events, and making sure everyone knows about upcoming activities and schedules.
+            </p>
         </li>
         <li>
             <h3>Varsity Wrestling (Jordan High School)</h3>
@@ -114,11 +117,6 @@
             </p>
         </li>
     </ul>
-</section>
-
-<section id="resume">
-    <h2>Resume</h2>
-    <embed src="JoshuaAnakFitzeraldResume 3.pages">
 </section>
 
   <section id="contact">
