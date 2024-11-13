@@ -42,7 +42,7 @@
               Cybersecurity: Basic Network Security, Web Scraping
           </li>
           <li>
-              API’s and Web Services: AWS, Discord API, Reddit API, Microsoft Suite, Microsoft Excel, Microsoft SQL
+              API’s and Web Services: AWS, S3, Discord API, Reddit API, Microsoft Suite, Microsoft Excel, Microsoft SQL
           </li>
           <li>
               Other: Data analysis, Team leadership, cooperation, effective communication, teaching, commitment, writing, and public speaking.
@@ -70,6 +70,12 @@
                 <a href="https://github.com/joshuafitzerald/jobwebscraper" target="_blank">View it here on GitHub</a>
           </li>
           <li>
+              <h3>AWS Stock Market Real-Time Data Pipeline</h3>
+              <p>Developed a data processing pipeline on AWS, integrating EC2, S3, Glue, and Athena to analyze real-time stock market data.
+                 Automated schema discovery and data cataloging using AWS Glue Crawlers, streamlining data ingestion and preparation for analysis.
+                 Executed SQL queries on large datasets with AWS Athena, enabling fast and efficient data extraction for real-time insights.</p>
+          </li>
+          <li>
                 <h3>Discord Moderation Bot</h3>
                 <p>Used python to program a Discord bot that enabled server administrators to define and enforce banned words in the chat.
                    Automated the detection and removal of flagged messages and built custom commands for adding, removing and viewing banned words, and for banning and unbanning users.
@@ -91,6 +97,12 @@
     <h2>Organizations</h2>
     <ul>
          <li>
+            <h3>UTD Powerlifting Club</h3>
+            <h4>Secretary Officer</h4>
+            <p>Supported club events and activities, contributing to the club’s welcoming environment and encouraging new members. Managed member information, and kept all club documents up to date. In charge                             of communications, sending updates to members, coordinating events, and making sure everyone knows about upcoming activities and schedules.
+            </p>
+        </li>
+         <li>
             <h3>Computer Security Group (UTD CSG)</h3>
             <p>Engaged in hands-on workshops that developed practical skills in the offensive side of cybersecurity, such as hacking into systems.
                Competed in CTF (Capture The Flag) events which consisted of hacking competitions among teams.
@@ -100,12 +112,6 @@
             <h3>Cybersecurity Club (UTD CYC)</h3>
             <p>Engaged in hands-on workshops to develop practical cybersecurity skills.
                Attended guest lectures by industry professionals to gain insights into cybersecurity careers.
-            </p>
-        </li>
-        <li>
-            <h3>UTD Powerlifting Club</h3>
-            <h4>Secretary Officer</h4>
-            <p>Supported club events and activities, contributing to the club’s welcoming environment and encouraging new members. Managed member information, and kept all club documents up to date. In charge                             of communications, sending updates to members, coordinating events, and making sure everyone knows about upcoming activities and schedules.
             </p>
         </li>
         <li>
