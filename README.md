@@ -97,6 +97,7 @@
     <h2>Organizations</h2>
     <ul>
          <li>
+            <img src="IMG_2357.jpeg" alt="Joshua Anak Fitzerald">
             <h3>UTD Powerlifting Club</h3>
             <h4>Secretary Officer</h4>
             <p>Supported club events and activities, contributing to the club’s welcoming environment and encouraging new members. Managed member information, and kept all club documents up to date. In charge                             of communications, sending updates to members, coordinating events, and making sure everyone knows about upcoming activities and schedules.
