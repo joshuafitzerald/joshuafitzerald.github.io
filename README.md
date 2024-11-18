@@ -58,7 +58,7 @@
                <img src="IMG_3803.jpeg" width = 40% alt="Hackathon">
                 <p>An interactive web application that allows users to visualize and analyze vehicle fuel economy data from 2021 to 2025. The app provides filtering options, sorting, and dynamic charts to help users gain                     insights into fuel efficiency, CO2 emissions, and other important metrics.
                 </p>
-                <h4>AI Data Analyst Chatbot Feature</h3>
+                <h3>AI Data Analyst Chatbot Feature</h3>
                 <p>This web application further helps users analyze vehicle fuel economy data (2021–2025) by leveraging AI. Users can input vehicle details and receive insights such as fuel efficiency, annual fuel costs, and comparisons with other vehicles. This AI utilizes the GPT-3.5-turbo model via OpenAI API. 
                 </p>
                 <a href="https://devpost.com/software/green_gear_analyitcs" target="_blank">View it here</a>
@@ -107,9 +107,9 @@
     <h2>Organizations</h2>
     <ul>
          <li>
-            <img src="IMG_2357.jpeg" alt="Joshua Anak Fitzerald">
             <h3>UTD Powerlifting Club</h3>
             <h4>Secretary Officer</h4>
+             <img src="IMG_3713.jpg" width = 50% alt="Joshua Anak Fitzerald">
             <p>Supported club events and activities, contributing to the club’s welcoming environment and encouraging new members. Managed member information, and kept all club documents up to date. In charge                             of communications, sending updates to members, coordinating events, and making sure everyone knows about upcoming activities and schedules.
             </p>
         </li>
