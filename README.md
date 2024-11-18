@@ -41,12 +41,12 @@
       <ul>
            <li>
                 <h3>Vehicle Fuel Economy Data Visualization App (Hackathon Project)</h3>
-                    <img src="converted_image.jpeg" width = 40% alt="FuelEconomy">
+                    <img src="converted_image.jpeg" alt="FuelEconomy">
                 <p>An interactive web application that allows users to visualize and analyze vehicle fuel economy data from 2021 to 2025. The app provides filtering options, sorting, and dynamic charts to help users gain                     insights into fuel efficiency, CO2 emissions, and other important metrics.
                 </p>
                 <h3>AI Data Analyst Chatbot Feature</h3>
                 <p>This web application further helps users analyze vehicle fuel economy data (2021–2025) by leveraging AI. Users can input vehicle details and receive insights such as fuel efficiency, annual fuel costs, and comparisons with other vehicles. This AI utilizes the GPT-3.5-turbo model via OpenAI API. 
-                     <img src="IMG_3803.jpeg" alt="Fuel">
+                     <img src="IMG_3803.jpeg" width = 40% alt="Fuel">
                 </p>
                 <a href="https://devpost.com/software/green_gear_analyitcs" target="_blank">View it here</a>
           </li>
