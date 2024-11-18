@@ -48,7 +48,7 @@
                 <p>This web application further helps users analyze vehicle fuel economy data (2021–2025) by leveraging AI. Users can input vehicle details and receive insights such as fuel efficiency, annual fuel costs, and comparisons with other vehicles. This AI utilizes the GPT-3.5-turbo model via OpenAI API. 
                         <a href="https://devpost.com/software/green_gear_analyitcs" target="_blank">View it here</a>
                 </p>
-                <img src="IMG_3803.jpeg" width = 40% height 40% alt="Fuel">
+                <img src="IMG_3803.jpeg" alt="Fuel">
           </li>
            <li>
                 <h3>iOS Expense Tracker App</h3>
@@ -96,7 +96,7 @@
          <li>
             <h3>UTD Powerlifting Club</h3>
             <h4>Secretary Officer</h4>
-             <img src="IMG_3713.jpg" width = 50% height = 50% alt="Joshua Anak Fitzerald">
+             <img src="IMG_3713.jpg" alt="Joshua Anak Fitzerald">
             <p>Supported club events and activities, contributing to the club’s welcoming environment and encouraging new members. Managed member information, and kept all club documents up to date. In charge                             of communications, sending updates to members, coordinating events, and making sure everyone knows about upcoming activities and schedules.
             </p>
         </li>
@@ -114,7 +114,7 @@
         </li>
         <li>
             <h3>Varsity Wrestling (Jordan High School)</h3>
-            <img src="BE90AB74-74CE-4592-9E11-1CC8601418D7.jpg" width = 50% height = 50% alt="Wrestling">
+            <img src="BE90AB74-74CE-4592-9E11-1CC8601418D7.jpg" alt="Wrestling">
             <p>Wrestled in the 145, 152, 160 and 170 lb weight class divisions.
                Competed in tournaments against other schools and districts.
                Demonstrated hard work and discipline. For example, one rep max for barbell bench press went from 185 lbs during Sophomore Year to 245 lbs in Junior Year. 
