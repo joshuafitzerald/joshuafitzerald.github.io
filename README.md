@@ -46,8 +46,8 @@
                 </p>
                 <h3>AI Data Analyst Chatbot Feature</h3>
                 <p>This web application further helps users analyze vehicle fuel economy data (2021–2025) by leveraging AI. Users can input vehicle details and receive insights such as fuel efficiency, annual fuel costs, and comparisons with other vehicles. This AI utilizes the GPT-3.5-turbo model via OpenAI API. 
-                        <a href="https://devpost.com/software/green_gear_analyitcs" target="_blank">View it here</a>
                 </p>
+               <a href="https://devpost.com/software/green_gear_analyitcs" target="_blank">View it here</a>
           </li>
            <li>
                 <h3>iOS Expense Tracker App</h3>
