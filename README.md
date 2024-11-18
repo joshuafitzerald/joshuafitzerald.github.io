@@ -8,23 +8,9 @@
 <img src="IMG_1714.png" alt="Joshua Anak Fitzerald">
 
   <nav>
-        <ul>
-            <li>
-              <a href="#about">About</a>
-            </li>
-            <li>
-              <a href="#skills">Skills</a>
-            </li>
-            <li>
-              <a href="#projects">Projects</a>
-            </li>
-            <li>
-                <a href="#organizations">Organizations</a>
-            </li>
-            <li>
-              <a href="#contact">Contact and Socials</a>
-            </li>
-        </ul>
+     <h3>
+             | <a href="#about">About</a> | <a href="#skills">Skills</a> | <a href="#projects">Projects</a> | <a href="#organizations">Organizations</a> | <a href="#contact">Contact and Socials</a> |
+      </h3>
     </nav>
 
   <section id="about">
@@ -55,11 +41,12 @@
       <ul>
            <li>
                 <h3>Vehicle Fuel Economy Data Visualization App (Hackathon Project)</h3>
-               <img src="IMG_3803.jpeg" width = 40% alt="Hackathon">
+                    <img src="converted_image.jpeg" width = 40% alt="FuelEconomy">
                 <p>An interactive web application that allows users to visualize and analyze vehicle fuel economy data from 2021 to 2025. The app provides filtering options, sorting, and dynamic charts to help users gain                     insights into fuel efficiency, CO2 emissions, and other important metrics.
                 </p>
                 <h3>AI Data Analyst Chatbot Feature</h3>
                 <p>This web application further helps users analyze vehicle fuel economy data (2021–2025) by leveraging AI. Users can input vehicle details and receive insights such as fuel efficiency, annual fuel costs, and comparisons with other vehicles. This AI utilizes the GPT-3.5-turbo model via OpenAI API. 
+                     <img src="IMG_3803.jpeg" alt="Fuel">
                 </p>
                 <a href="https://devpost.com/software/green_gear_analyitcs" target="_blank">View it here</a>
           </li>
@@ -67,8 +54,8 @@
                 <h3>iOS Expense Tracker App</h3>
                 <p>Developed an iOS app for tracking personal expenses, built with Swift and Core Data. This app allows users to easily add, delete, and categorize expenses, with monthly and weekly                                            breakdowns for comprehensive budgeting insights.
                 </p>
-                <a href="https://github.com/joshuafitzerald/ExpenseTrackerApp" target="_blank">View it here on GitHub</a>
           </li>
+          <a href="https://github.com/joshuafitzerald/ExpenseTrackerApp" target="_blank">View it here on GitHub</a>
           <li>
                 <h3>Job Hunt Web Scraper</h3>
                 <p>Developed a Python-based web scraper using BeautifulSoup and Requests to extract job listings from TimesJobs.
