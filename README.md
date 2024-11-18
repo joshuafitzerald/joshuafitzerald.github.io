@@ -127,6 +127,7 @@
         </li>
         <li>
             <h3>Varsity Wrestling (Jordan High School)</h3>
+            <img src="BE90AB74-74CE-4592-9E11-1CC8601418D7.jpg" width = 50% alt="Wrestling">
             <p>Wrestled in the 145, 152, 160 and 170 lb weight class divisions.
                Competed in tournaments against other schools and districts.
                Demonstrated hard work and discipline. For example, one rep max for barbell bench press went from 185 lbs during Sophomore Year to 245 lbs in Junior Year. 
