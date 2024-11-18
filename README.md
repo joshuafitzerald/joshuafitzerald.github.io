@@ -54,6 +54,16 @@
       <h2>Projects</h2>
       <ul>
            <li>
+                <h3>Vehicle Fuel Economy Data Visualization App (Hackathon Project)</h3>
+               <img src="IMG_3803.jpeg" width = 40% alt="Hackathon">
+                <p>An interactive web application that allows users to visualize and analyze vehicle fuel economy data from 2021 to 2025. The app provides filtering options, sorting, and dynamic charts to help users gain                     insights into fuel efficiency, CO2 emissions, and other important metrics.
+                </p>
+                <h4>AI Data Analyst Chatbot Feature</h3>
+                <p>This web application further helps users analyze vehicle fuel economy data (2021–2025) by leveraging AI. Users can input vehicle details and receive insights such as fuel efficiency, annual fuel costs, and comparisons with other vehicles. This AI utilizes the GPT-3.5-turbo model via OpenAI API. 
+                </p>
+                <a href="https://devpost.com/software/green_gear_analyitcs" target="_blank">View it here</a>
+          </li>
+           <li>
                 <h3>iOS Expense Tracker App</h3>
                 <p>Developed an iOS app for tracking personal expenses, built with Swift and Core Data. This app allows users to easily add, delete, and categorize expenses, with monthly and weekly                                            breakdowns for comprehensive budgeting insights.
                 </p>
