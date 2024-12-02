@@ -22,13 +22,13 @@
       <h2>Skills</h2>
       <ul>
           <li>
-              Programming Languages: Python, Javascript, Java, R Programming, C++, HTML, and CSS
+              Programming Languages: Python, Javascript, Java, R Programming, C++, HTML, CSS, Swift, Typescript, Tailwind, and SQL
           </li>
           <li>
               Cybersecurity: Basic Network Security, Web Scraping
           </li>
           <li>
-              API’s and Web Services: AWS, S3, Discord API, Reddit API, Microsoft Suite, Microsoft Excel, Microsoft SQL
+              API’s and Web Services: AWS EC2, AWS S3, Kafka, Flask, Chart.js, Voiceflow AI, Replit, OpenAI, Vercel, Axios, RESTful APIs, React.js, Node.js, Express.js, Discord API, Reddit API, Microsoft Suite, Microsoft Excel, Microsoft SQL
           </li>
           <li>
               Other: Data analysis, Team leadership, cooperation, effective communication, teaching, commitment, writing, and public speaking.
@@ -130,12 +130,13 @@
       <p><a href="www.linkedin.com/in/joshua-anak-fitzerald-141160324">My LinkedIn</a></p>
   </section>
 
-<img src="IMG_1849.jpeg" alt="Anime">
-
 <section id="Music">
       <h2>Music</h2>
-      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/6GimttnXHidjNu0ON27dc0?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+          <h3><a href="https://open.spotify.com/artist/6GimttnXHidjNu0ON27dc0?si=fI0VAk2kSj6Ny3YgsHVGJQ">Spotify</a></h3>
+          <h3><a href="https://music.apple.com/us/artist/jf-drago/1773521361">Apple Music</a></h3>
   </section>
+
+  <img src="IMG_1849.jpeg" alt="Anime">
 
   <footer>
       <p>&copy; 2024 Joshua Anak Fitzerald. All rights reserved.</p>
