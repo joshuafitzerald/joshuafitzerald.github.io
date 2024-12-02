@@ -9,7 +9,7 @@
 
   <nav>
      <h3>
-             | <a href="#about">About</a> | <a href="#skills">Skills</a> | <a href="#projects">Projects</a> | <a href="#organizations">Organizations</a> | <a href="#contact">Contact and Socials</a> |
+             | <a href="#about">About</a> | <a href="#skills">Skills</a> | <a href="#projects">Projects</a> | <a href="#organizations">Organizations</a> | <a href="#contact">Contact and Socials</a> | <a href="#Music">Music</a>
       </h3>
     </nav>
 
@@ -126,13 +126,16 @@
 
   <section id="contact">
       <h2>Contact</h2>
-      <p>Email: <a href="mailto:fitzeraldjoshuaanak@gmail.com">fitzeraldjoshuaanak@gmail.com</a></p>
-      <p>LinkedIn: <a href="www.linkedin.com/in/joshua-anak-fitzerald-141160324">fitzeraldjoshuaanak@gmail.com</a></p>
+      <p><a href="mailto:fitzeraldjoshuaanak@gmail.com">fitzeraldjoshuaanak@gmail.com</a></p>
+      <p><a href="www.linkedin.com/in/joshua-anak-fitzerald-141160324">My LinkedIn</a></p>
   </section>
 
 <img src="IMG_1849.jpeg" alt="Anime">
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/6GimttnXHidjNu0ON27dc0?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<section id="Music">
+      <h2>Music</h2>
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/6GimttnXHidjNu0ON27dc0?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  </section>
 
   <footer>
       <p>&copy; 2024 Joshua Anak Fitzerald. All rights reserved.</p>
